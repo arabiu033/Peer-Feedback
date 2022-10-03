@@ -58,8 +58,6 @@ export default class TaskHandling {
       }
       this.cleanup(ele, textArea, menu, li, bin);
     };
-
-
   }
 
   cleanup(ele, textArea, menu, li, bin) {
